@@ -22,12 +22,14 @@ I build MirzaPlugin, a Persian-first suite of WordPress and WooCommerce tools:
 
 ## Selected web projects
 
+My personal portfolio features 30+ websites; these are selected examples. [Browse the portfolio](https://rezaazizpor.ir/#work).
+
 - [NobatChi](https://github.com/superstarrez/nobatchi) — a Persian-first salon discovery and appointment-booking prototype built with Next.js, TypeScript, and Tailwind CSS. The booking flow currently uses mock data.
 - [Sina Drink](https://cnadrink.ir) — coffee and barista equipment shop with online training.
 - [Coyar Organic](https://coyarorganic.com) — online shop for natural and organic products.
 - [Nootan Clinic](https://nootan.ir) — clinic website for treatment and aesthetic services.
 
-More selected work is available on my [portfolio](https://rezaazizpor.ir/#projects).
+More selected work is available on my [portfolio](https://rezaazizpor.ir/#work).
 
 ## Tools I work with
 
