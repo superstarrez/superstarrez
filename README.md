@@ -1,40 +1,21 @@
 # Reza Azizpor
 
-**Web designer and developer · WordPress product builder · Ahvaz, Iran**
+**WordPress & WooCommerce Developer · Product Builder at MirzaPlugin · Ahvaz, Iran**
 
-I design and build WordPress and WooCommerce products, websites, and practical tools for online businesses. My work spans product design, user interfaces, plugin development, SEO, and the workflows that help a site run day to day.
+I build WordPress products, WooCommerce workflows, and websites—from plugin development and product UX to SEO and automation.
 
-[Personal website & selected portfolio](https://rezaazizpor.ir) · [MirzaPlugin](https://www.mirzaplugin.ir) · [LinkedIn](https://www.linkedin.com/in/reza-azizpor/)
+[Portfolio](https://rezaazizpor.ir) · [MirzaPlugin](https://www.mirzaplugin.ir) · [LinkedIn](https://www.linkedin.com/in/reza-azizpor/)
 
-## WordPress products
+## Selected work
 
-I build MirzaPlugin, a Persian-first suite of WordPress and WooCommerce tools:
+- **[NobatChi](https://github.com/superstarrez/nobatchi)** — Persian-first salon discovery and booking prototype built with Next.js, TypeScript, and Tailwind CSS. [View the demo](https://nobatchi-s92o.vercel.app/). The demo uses mock data; bookings are not live.
+- **[MirzaPlugin](https://www.mirzaplugin.ir/)** — a Persian-first suite of WordPress and WooCommerce plugins for content workflows, login, store management, keyword research, and order notifications.
+- **Selected websites:** [Sina Drink](https://cnadrink.ir) · [Coyar Organic](https://coyarorganic.com) · [Nootan Clinic](https://nootan.ir). [See more work](https://rezaazizpor.ir/#work).
 
-| Product | What it does |
-| --- | --- |
-| [Mirza Benevis](https://www.mirzaplugin.ir/mirza-benevis/) | AI-assisted article and WooCommerce product-content workflows, content quality checks, and scheduled publishing. |
-| [Mirza Voroud](https://www.mirzaplugin.ir/mirza-login/) | SMS one-time-code login and registration for WordPress. |
-| [Mirza Foroushgah](https://www.mirzaplugin.ir/product/mirza-forooshgah/) | Manage WooCommerce orders, products, and customers from a phone. |
-| [Mirza Vazheh](https://www.mirzaplugin.ir/mirza-vazheh/) | Free keyword research for Google and AI search. |
-| [Mirza Khabar](https://www.mirzaplugin.ir/mirza-khabar/) | Free WooCommerce order notifications through Bale and Telegram. |
+## Focus
 
-[Explore all products](https://www.mirzaplugin.ir/) · [Try the demos](https://demo.mirzaplugin.ir/)
-
-## Selected web projects
-
-My personal portfolio features 30+ websites; these are selected examples. [Browse the portfolio](https://rezaazizpor.ir/#work).
-
-- [NobatChi](https://github.com/superstarrez/nobatchi) — a Persian-first salon discovery and appointment-booking prototype built with Next.js, TypeScript, and Tailwind CSS. The booking flow currently uses mock data.
-- [Sina Drink](https://cnadrink.ir) — coffee and barista equipment shop with online training.
-- [Coyar Organic](https://coyarorganic.com) — online shop for natural and organic products.
-- [Nootan Clinic](https://nootan.ir) — clinic website for treatment and aesthetic services.
-
-More selected work is available on my [portfolio](https://rezaazizpor.ir/#work).
-
-## Tools I work with
-
-WordPress · WooCommerce · PHP · JavaScript · HTML · CSS · REST APIs · PWA · Next.js · TypeScript · SEO · UI/UX
+WordPress · WooCommerce · PHP · JavaScript · Next.js · TypeScript · REST APIs · SEO · Product UX
 
 ## Contact
 
-For a project or collaboration, visit [rezaazizpor.ir](https://rezaazizpor.ir) or connect with me on [LinkedIn](https://www.linkedin.com/in/reza-azizpor/).
+For projects and collaboration: [rezaazizpor.ir](https://rezaazizpor.ir) · [LinkedIn](https://www.linkedin.com/in/reza-azizpor/)
